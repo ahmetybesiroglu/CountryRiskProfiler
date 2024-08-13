@@ -1,0 +1,246 @@
+country_name,rating,Sanctions,FATF AML Deficient List,Terrorism,Corruption,US State ML Assessment,Criminal Markets (GI Index),EU Tax Blacklist,Offshore Finance Center
+Afghanistan,25.37,1,1,1,1,1,1,3,3
+Aland Islands,81.99,3,3,2,3,3,3,3,3
+Albania,54.66,1,3,2,2,1,2,3,3
+Algeria,61.72,3,3,2,1,1,2,3,3
+American Samoa,75.9,3,3,3,3,2,2,1,3
+Andorra,77.45,3,3,2,3,3,2,3,1
+Angola,64.53,3,3,2,1,2,2,3,3
+Anguilla,65.83,3,3,2,3,3,2,1,1
+Antigua and Barbuda,61.51,3,3,2,2,1,3,1,1
+Argentina,65.29,3,3,2,2,1,2,3,3
+Armenia,64.81,2,3,3,2,1,3,2,3
+Aruba,68.36,3,3,2,3,1,2,3,1
+Australia,77.88,3,3,3,3,2,2,3,3
+Austria,77.62,3,3,3,3,2,2,3,3
+Azerbaijan,61.31,2,3,2,1,2,2,3,3
+Bahamas,66.52,3,3,2,3,1,2,3,1
+Bahrain,68.39,3,3,2,2,2,2,3,1
+Bangladesh,69.01,3,3,2,1,2,2,3,3
+Barbados,54.96,3,1,2,3,1,2,3,1
+Belarus,58.83,1,3,3,1,2,2,3,3
+Belgium,74.62,3,3,2,3,1,2,3,3
+Belize,62.52,3,3,2,2,1,2,2,1
+Benin,63.4,3,3,1,2,2,2,3,3
+Bermuda,78.15,3,3,3,3,3,2,3,1
+Bhutan,72.3,3,3,2,3,2,2,3,3
+Bolivia,66.25,3,3,2,1,1,2,3,3
+"Bonaire, Sint Eustatius and Saba",75.92,3,3,3,3,1,2,3,3
+Bosnia-Herzegovina,53.25,1,3,2,1,2,2,3,3
+Botswana,72.5,3,3,2,2,3,2,3,3
+Brazil,65.06,3,3,2,1,1,1,3,3
+British Indian Ocean Territory,78.8,3,3,3,3,1,2,3,3
+British Virgin Islands,63.3,3,3,2,2,1,2,2,1
+Brunei Darussalam,78.6,3,3,2,3,3,3,3,3
+Bulgaria,54.3,3,1,2,2,2,2,3,3
+Burkina Faso,52.06,3,1,1,2,3,2,3,3
+Burundi,43.52,1,2,2,1,3,2,3,3
+Cambodia,62.1,3,3,2,1,1,1,3,3
+Cameroon,48.65,3,1,1,1,3,2,3,3
+Canada,75.05,3,3,3,3,1,2,3,3
+Cape Verde,67.39,3,3,2,3,1,2,3,3
+Cayman Islands,67.11,3,3,2,2,1,2,3,1
+Central African Rep,49.02,1,3,2,1,3,1,3,3
+Chad,61.46,3,3,1,1,3,2,3,3
+Chile,72.26,3,3,2,3,2,2,3,3
+China,54.08,1,3,2,2,1,2,3,3
+Christmas Island,77.67,3,3,3,3,2,2,3,3
+Cocos (Keeling) Islands,77.67,3,3,3,3,2,2,3,3
+Colombia,62.74,3,3,1,2,1,1,3,3
+Comoros,59.5,3,3,2,1,2,2,3,3
+Congo (Brazzaville),64.08,3,3,2,1,3,2,3,3
+"Congo, the Democratic Republic",28.34,1,1,1,1,3,1,3,3
+Cook Islands,71.87,3,3,2,2,2,3,3,1
+Costa Rica,66.16,3,3,2,2,1,2,2,3
+Cote D'Ivoire,62.39,3,3,2,2,2,2,3,3
+Croatia,46.97,1,1,2,2,3,2,3,3
+Cuba,54.11,1,3,1,2,1,2,3,3
+Curacao,60.12,3,3,2,2,1,2,2,1
+Cyprus,67.26,3,3,2,2,1,2,3,1
+Czech Republic,74.54,3,3,2,2,2,2,3,3
+Denmark,81.54,3,3,3,3,3,2,3,3
+Djibouti,58.04,3,2,2,1,3,2,3,3
+Dominica ,66.84,3,3,2,2,1,3,3,1
+Dominican Republic,68.72,3,3,2,2,1,2,3,3
+Ecuador,64.71,3,3,2,1,1,1,3,3
+Egypt,68.83,3,3,2,1,2,2,3,3
+El Salvador,62.77,3,3,2,1,1,2,3,3
+Equatorial Guinea,62.1,3,3,2,1,3,2,3,3
+Eritrea,45.28,1,2,2,1,3,2,3,3
+Estonia,78.63,3,3,2,3,3,2,3,3
+Eswatini,63.0,3,3,2,1,3,2,2,3
+Ethiopia,57.15,1,3,2,2,3,2,3,3
+Falkland Islands (Malvinas),78.8,3,3,3,3,1,2,3,3
+Faroe islands,81.54,3,3,3,3,3,2,3,3
+Fiji,69.12,3,3,2,2,3,2,1,3
+Finland,81.99,3,3,2,3,3,3,3,3
+France,78.29,3,3,3,3,2,2,3,3
+French Guiana,78.95,3,3,3,3,2,2,3,3
+French Polynesia,78.95,3,3,3,3,2,2,3,3
+Gabon,64.46,3,3,2,1,3,2,3,3
+Gambia,68.3,3,3,2,2,3,2,3,3
+Gaza Strip,45.59,2,2,1,1,2,2,3,3
+Georgia,70.42,3,3,2,2,1,2,3,3
+Germany,76.48,3,3,2,3,2,2,3,3
+Ghana,65.82,3,3,2,2,1,2,3,3
+Gibraltar,58.79,3,1,2,2,2,2,3,1
+Greece,73.3,3,3,2,2,2,2,3,3
+Greenland,80.57,3,3,3,3,3,2,3,3
+Grenada,65.13,3,3,2,2,2,3,3,1
+Guadeloupe,78.95,3,3,3,3,2,2,3,3
+Guam,75.9,3,3,3,3,2,2,1,3
+Guatemala,52.99,1,3,2,1,1,1,3,3
+Guernsey ,74.23,3,3,2,3,2,2,3,1
+Guinea,55.2,1,3,2,1,3,2,3,3
+Guinea Bissau,44.01,1,3,2,1,1,2,3,3
+Guyana,59.25,3,3,2,2,1,2,3,1
+Haiti,25.7,1,1,2,1,1,2,3,3
+Honduras,64.72,3,3,2,1,1,1,3,3
+Hong Kong,62.53,2,3,3,3,1,2,3,1
+Hungary,71.3,3,3,2,2,2,2,3,3
+Iceland,78.96,3,3,2,3,3,2,3,3
+India,62.75,3,3,1,2,1,2,3,3
+Indonesia,65.56,3,3,2,2,1,1,3,3
+"Iran, Islamic Republic of",18.34,1,1,1,1,1,1,3,3
+Iraq,45.85,1,3,1,1,2,1,3,3
+Ireland,74.05,3,3,2,3,2,2,3,1
+Isle Of Man,73.31,3,3,2,3,2,2,3,1
+Israel,68.23,2,3,2,3,2,2,3,3
+Italy,72.34,3,3,3,2,1,2,3,3
+Jamaica,54.89,3,1,2,2,1,2,3,3
+Japan,75.41,3,3,2,3,2,2,3,3
+Jersey ,76.71,3,3,3,3,2,2,3,1
+Jordan,70.27,3,3,2,2,2,2,3,3
+Kazakhstan,71.08,3,3,3,2,1,2,3,3
+Kenya,41.93,3,1,1,1,1,1,3,3
+Kiribati,62.06,3,2,2,2,2,3,3,3
+Kosovo,44.51,1,2,2,2,2,2,3,3
+Kuwait,69.01,3,3,2,2,2,2,3,3
+Kyrgyzstan,65.46,3,3,2,1,1,2,3,3
+Lao People's Democratic Republic,58.27,3,3,2,1,1,2,3,3
+Latvia,74.84,3,3,2,2,2,2,3,3
+Lebanon,46.24,1,3,2,1,2,1,3,1
+Lesotho,68.5,3,3,2,2,3,2,3,3
+Liberia,55.34,3,3,2,1,1,2,3,1
+Libya,38.04,1,2,2,1,3,1,3,3
+Liechtenstein,76.77,3,3,2,3,2,3,3,1
+Lithuania,77.92,3,3,2,2,3,2,3,3
+Luxembourg,76.59,3,3,2,3,2,3,3,1
+Macau,74.93,3,3,3,3,1,2,3,3
+Madagascar,64.46,3,3,2,1,3,2,3,3
+Malawi,70.47,3,3,2,1,3,2,3,3
+Malaysia,65.34,3,3,2,2,1,2,2,1
+Maldives,63.8,3,3,2,2,3,2,3,3
+Mali,37.22,1,1,1,1,3,2,3,3
+Malta,71.54,3,3,2,2,3,2,3,1
+Marshall Islands,68.89,3,3,2,2,3,3,3,1
+Martinique,78.95,3,3,3,3,2,2,3,3
+Mauritania,68.92,3,3,2,1,3,2,3,3
+Mauritius,70.27,3,3,2,2,3,2,3,1
+Mayotte,78.95,3,3,3,3,2,2,3,3
+Mexico,64.99,3,3,3,1,1,1,3,3
+Micronesia,64.03,3,2,2,2,3,2,3,3
+Moldova,62.46,2,3,2,2,2,2,3,3
+Monaco,56.87,3,1,2,3,2,3,3,1
+Mongolia,71.18,3,3,2,1,3,2,3,3
+Montenegro,56.53,1,3,2,2,2,2,3,3
+Montserrat,68.37,3,3,2,2,3,2,3,1
+Morocco,66.97,3,3,2,2,2,2,3,1
+Mozambique,42.85,3,1,1,1,1,2,3,3
+Myanmar,24.91,1,1,1,1,1,1,3,3
+Namibia,56.31,3,1,2,2,3,2,3,3
+Nauru,69.16,3,3,2,3,3,3,3,1
+Nepal,65.4,3,3,2,1,3,1,3,3
+Netherlands,72.77,3,3,3,3,1,2,3,1
+New Caledonia,78.95,3,3,3,3,2,2,3,3
+New Zealand,80.81,3,3,2,3,3,2,3,3
+Nicaragua,50.93,1,3,2,1,1,2,3,3
+Niger,52.98,1,3,1,1,3,2,3,3
+Nigeria,45.6,3,1,1,1,1,1,3,3
+Niue,67.62,3,3,2,2,3,3,3,1
+Norfolk Island,77.67,3,3,3,3,2,2,3,3
+North Korea,21.8,1,1,1,1,2,2,3,3
+North Macedonia,60.86,1,3,2,2,3,2,3,3
+North Mariana Islands,75.81,3,3,3,3,1,2,3,3
+Norway,82.38,3,3,3,3,3,2,3,3
+Oman,72.1,3,3,2,2,3,2,3,3
+Pakistan,60.51,3,3,1,1,1,2,3,3
+Palau,67.82,3,3,2,3,2,3,1,3
+Panama,47.72,3,1,3,1,1,1,1,1
+Papua New Guinea,62.8,3,3,2,1,3,2,3,3
+Paraguay,64.23,3,3,2,1,1,1,3,3
+Peru,67.01,3,3,2,1,1,2,3,3
+Philippines,43.56,3,1,1,1,1,1,3,1
+Pitcairn,78.8,3,3,3,3,1,2,3,3
+Poland,71.87,3,3,2,2,2,2,3,3
+Portugal,76.6,3,3,3,2,2,2,3,3
+Puerto Rico,77.89,3,3,3,2,2,2,3,3
+Qatar ,75.3,3,3,2,2,2,2,3,3
+Romania,71.38,3,3,2,2,2,2,3,3
+Russian Federation,28.75,1,1,2,1,1,1,1,3
+Rwanda,68.36,3,3,2,2,3,2,3,3
+Réunion,78.95,3,3,3,3,2,2,3,3
+Saint Barthélemy,78.95,3,3,3,3,2,2,3,3
+"Saint Helena, Ascension and Tristan",78.8,3,3,3,3,1,2,3,3
+Saint Martin (French part),78.95,3,3,3,3,2,2,3,3
+Saint Pierre and Miquelon,78.95,3,3,3,3,2,2,3,3
+Samoa,64.32,3,3,2,2,2,3,1,1
+San Marino,80.9,3,3,2,3,3,2,3,3
+Sao Tome & Prin.,63.36,3,2,2,2,3,3,3,3
+Saudi Arabia,71.68,3,3,2,2,2,2,3,3
+Senegal,50.12,3,1,2,2,1,2,3,3
+Serbia,55.74,1,3,2,2,2,2,3,3
+Seychelles,62.4,3,3,2,3,1,2,2,1
+Sierra Leone,60.56,3,3,2,1,2,2,3,3
+Singapore,74.69,3,3,2,3,2,2,3,1
+Slovakia,71.12,3,3,2,2,2,2,3,3
+Slovenia,65.27,1,3,2,2,3,2,3,3
+Solomon Islands,67.92,3,3,2,2,3,2,3,3
+Somalia,34.62,1,2,1,1,2,2,3,3
+South Africa,53.07,3,1,2,2,2,1,3,3
+South Korea ,76.33,3,3,2,2,2,2,3,3
+South Sudan,29.23,1,1,2,1,2,2,3,3
+Spain,74.29,3,3,3,2,1,2,3,3
+Sri Lanka,69.33,3,3,2,2,3,2,3,3
+St Kitts & Nevis,63.97,3,3,2,2,1,2,3,1
+St Lucia,63.82,3,3,2,2,1,2,3,1
+St Maarten,55.21,3,2,2,2,1,2,3,1
+St Vincent & Gren,65.92,3,3,2,2,1,2,3,1
+Sudan,50.48,1,3,2,1,3,2,3,3
+Suriname,60.62,3,3,2,2,1,2,3,3
+Svalbard and Mayen,82.82,3,3,3,3,3,2,3,3
+Sweden,81.15,3,3,3,3,3,2,3,3
+Switzerland,75.49,3,3,3,3,2,2,3,1
+Syria,25.51,1,1,1,1,1,1,3,3
+Taiwan,72.1,3,3,3,2,2,2,3,1
+Tajikistan,64.1,3,3,2,1,1,2,3,3
+Tanzania,46.78,3,1,2,2,1,2,3,3
+Thailand,64.29,3,3,2,2,1,2,3,3
+Timor-Leste,65.5,3,3,2,2,2,2,3,3
+Togo,64.99,3,3,1,1,3,2,3,3
+Tokelau,80.82,3,3,2,3,3,2,3,3
+Tonga,66.87,3,3,2,2,3,2,3,3
+Trinidad & Tobago,51.55,3,1,2,2,1,2,1,3
+Tunisia,58.65,1,3,2,2,3,2,3,3
+Turkey,53.36,2,3,2,1,1,1,2,3
+Turkmenistan,65.25,3,3,2,1,1,2,3,3
+Turks & Caicos,68.92,3,3,2,2,2,2,3,1
+Tuvalu,64.06,3,2,2,3,2,3,3,3
+Uganda,53.33,3,1,1,1,3,1,3,3
+Ukraine,53.57,1,3,2,1,1,2,3,3
+United Arab Emirates,54.61,3,1,2,3,1,2,3,1
+United Kingdom,75.21,3,3,3,3,1,2,3,1
+United States,74.78,3,3,3,3,1,2,3,3
+United States Virgin Islands,73.36,3,3,3,2,2,2,1,3
+Uruguay,77.94,3,3,2,3,2,2,3,3
+Uzbekistan,69.22,3,3,3,1,1,2,3,3
+Vanuatu,52.07,3,1,2,2,2,3,1,1
+Vatican City State (Holy See),77.83,3,3,2,3,2,2,3,3
+Venezuela,28.91,1,1,2,1,1,1,3,3
+Vietnam,45.76,3,1,2,2,1,1,2,3
+Wallis and Futuna,78.95,3,3,3,3,2,2,3,3
+"West Bank (Palestinian Territory, Occupied)",45.59,2,2,1,1,2,2,3,3
+Western Sahara,66.97,3,3,2,2,2,2,3,1
+Yemen,31.6,1,1,1,1,2,1,3,3
+Zambia,71.84,3,3,2,2,3,2,3,3
+Zimbabwe,54.52,1,3,2,1,2,2,3,3

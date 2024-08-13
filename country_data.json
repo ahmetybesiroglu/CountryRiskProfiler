@@ -1,0 +1,382 @@
+[
+    {
+        "country_name": "Afghanistan",
+        "rating": "25.37",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "red"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "red"
+            },
+            {
+                "title": "Terrorism",
+                "color": "red"
+            },
+            {
+                "title": "Corruption",
+                "color": "red"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "red"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "red"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "green"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "country_name": "Aland Islands",
+        "rating": "81.99",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "green"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "green"
+            },
+            {
+                "title": "Terrorism",
+                "color": "yellow"
+            },
+            {
+                "title": "Corruption",
+                "color": "green"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "green"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "green"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "green"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "country_name": "Albania",
+        "rating": "54.66",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "red"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "green"
+            },
+            {
+                "title": "Terrorism",
+                "color": "yellow"
+            },
+            {
+                "title": "Corruption",
+                "color": "yellow"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "red"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "yellow"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "green"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "country_name": "Algeria",
+        "rating": "61.72",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "green"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "green"
+            },
+            {
+                "title": "Terrorism",
+                "color": "yellow"
+            },
+            {
+                "title": "Corruption",
+                "color": "red"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "red"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "yellow"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "green"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "country_name": "American Samoa",
+        "rating": "75.90",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "green"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "green"
+            },
+            {
+                "title": "Terrorism",
+                "color": "green"
+            },
+            {
+                "title": "Corruption",
+                "color": "green"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "yellow"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "yellow"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "red"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "country_name": "Andorra",
+        "rating": "77.45",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "green"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "green"
+            },
+            {
+                "title": "Terrorism",
+                "color": "yellow"
+            },
+            {
+                "title": "Corruption",
+                "color": "green"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "green"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "yellow"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "green"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "red"
+            }
+        ]
+    },
+    {
+        "country_name": "Angola",
+        "rating": "64.53",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "green"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "green"
+            },
+            {
+                "title": "Terrorism",
+                "color": "yellow"
+            },
+            {
+                "title": "Corruption",
+                "color": "red"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "yellow"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "yellow"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "green"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "green"
+            }
+        ]
+    },
+    {
+        "country_name": "Anguilla",
+        "rating": "65.83",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "green"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "green"
+            },
+            {
+                "title": "Terrorism",
+                "color": "yellow"
+            },
+            {
+                "title": "Corruption",
+                "color": "green"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "green"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "yellow"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "red"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "red"
+            }
+        ]
+    },
+    {
+        "country_name": "Antigua and Barbuda",
+        "rating": "61.51",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "green"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "green"
+            },
+            {
+                "title": "Terrorism",
+                "color": "yellow"
+            },
+            {
+                "title": "Corruption",
+                "color": "yellow"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "red"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "green"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "red"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "red"
+            }
+        ]
+    },
+    {
+        "country_name": "Argentina",
+        "rating": "65.29",
+        "details": [
+            {
+                "title": "Sanctions",
+                "color": "green"
+            },
+            {
+                "title": "FATF AML Deficient List",
+                "color": "green"
+            },
+            {
+                "title": "Terrorism",
+                "color": "yellow"
+            },
+            {
+                "title": "Corruption",
+                "color": "yellow"
+            },
+            {
+                "title": "US State ML Assessment",
+                "color": "red"
+            },
+            {
+                "title": "Criminal Markets (GI Index)",
+                "color": "yellow"
+            },
+            {
+                "title": "EU Tax Blacklist",
+                "color": "green"
+            },
+            {
+                "title": "Offshore Finance Center",
+                "color": "green"
+            }
+        ]
+    }
+]
